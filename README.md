@@ -1,1 +1,1 @@
-# Gemstones-algo
+# Gemstones-algo The function finds characters (minerals) that appear in every rock by intersecting sets of unique characters from each string. The final count of common characters represents the number of gemstones.
